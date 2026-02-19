@@ -1,4 +1,4 @@
 # devops
 GIT REPOSITORY
 <br>
-AUTHORIZED USER
+AUTHORIZED verified user
